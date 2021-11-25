@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TobyDewayne
 - 👀 I’m interested in programming and becoming a working professional in the field
-- 🌱 I’m currently continually learning html5/css, pythong and some C#/unity
+- 🌱 I’m currently continually learning html5/css, python and some C#/unity
 - 💞️ I’m looking to collaborate on any project as an entry level professional
 - 📫 TobesDewayne@gmail.com
 
